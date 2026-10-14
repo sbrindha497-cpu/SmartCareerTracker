@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Local config with password
+src/main/resources/hibernate.cfg.xml
+
+# OS files
+Thumbs.db
